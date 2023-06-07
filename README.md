@@ -10,7 +10,7 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /><br><br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusdndl&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=gusdndl&show_icons=true"><br><br>
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=millabong)](https://solved.ac/millabong"><br><br>
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=millabong)](https://solved.ac/millabong">
 	<img src="http://mazassumnida.wtf/api/generate_badge?boj=millabong)](https://solved.ac/millabong">
 </div>
 
