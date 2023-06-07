@@ -1,7 +1,21 @@
 <p align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70"></image>
+<img src="https://readme-typing-svg.herokuapp.com/?color=6796e5&lines=Welcome%20Hyun's%20github&font=Dancing+Script&size=50&center=true&vCenter=true&width=600&height=80">
 </p>
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusdndl&layout=compact&theme=tokyonight">
+	<img src="https://github-readme-stats.vercel.app/api?username=gusdndl&show_icons=true&theme=tokyonight" width="42%"><br><br>
+<div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gusdndl&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=gusdndl&margin-w=10&margin-h=10&theme=onedark&no-frame=true&column=7"><br><br>
+</div>
+
+<br />
+<br />
+	
 <h3 align=center> 
 🌱 Hello🖐 I’m Hy in KNU, Korea 
 <br>
@@ -37,15 +51,12 @@ And now I'm a Metaverse developer!
 </div>
 
 <div align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=gusdndl&margin-w=10&margin-h=10&theme=onedark&no-frame=true&row=2&column=5"><br><br>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=gusdndl&theme=calm"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusdndl&layout=compact">
-	<img src="https://github-readme-stats.vercel.app/api?username=gusdndl&show_icons=true"><br><br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=gusdndl&theme=tokyonight"><br><br>
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=millabong)](https://solved.ac/millabong">
 	<img src="http://mazassumnida.wtf/api/generate_badge?boj=millabong)](https://solved.ac/millabong">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gusdndl&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
