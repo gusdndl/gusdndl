@@ -5,7 +5,7 @@
 <h3 align=center> 
 🌱 Hello🖐 I’m Hy in KNU, Korea 
 <br>
-I used to major in Computer Science Engeneering.
+I used to major in Computer Science Engneering.
 And now I'm a Metaverse developer!
 </h3>
 <br>
