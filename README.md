@@ -1,5 +1,5 @@
 <p align=center>
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=E5CCFF&height=160&section=header&text=Hyun🐣&fontSize=90&&animation=fadeIn&fontColor=FFFFFF"></image>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70"></image>
 </p>
 
 <h3 align=center> 
@@ -45,6 +45,7 @@ And now I'm a Metaverse developer!
 	<img src="http://mazassumnida.wtf/api/generate_badge?boj=millabong)](https://solved.ac/millabong">
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gusdndl&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
