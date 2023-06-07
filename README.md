@@ -38,11 +38,13 @@ And now I'm a Metaverse developer!
 
 <div align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=gusdndl&margin-w=10&margin-h=10&theme=onedark&no-frame=true&row=2&column=5"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusdndl&layout=compact"><br><br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=gusdndl&theme=calm"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusdndl&layout=compact">
 	<img src="https://github-readme-stats.vercel.app/api?username=gusdndl&show_icons=true"><br><br>
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=millabong)](https://solved.ac/millabong">
 	<img src="http://mazassumnida.wtf/api/generate_badge?boj=millabong)](https://solved.ac/millabong">
 </div>
+
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
