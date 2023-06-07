@@ -13,7 +13,7 @@
 	<img src="https://github-profile-trophy.vercel.app/?username=gusdndl&margin-w=10&margin-h=10&theme=onedark&no-frame=true&column=7"><br><br>
 </div>
 
-<br />
+---
 <br />
 	
 <h3 align=center> 
