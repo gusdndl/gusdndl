@@ -52,8 +52,8 @@ And now I'm a Metaverse developer!
 
 <div align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=gusdndl&theme=tokyonight"><br><br>
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=millabong)](https://solved.ac/millabong">
-	<img src="http://mazassumnida.wtf/api/generate_badge?boj=millabong)](https://solved.ac/millabong">
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=millabong">
+	<img src="http://mazassumnida.wtf/api/generate_badge?boj=millabong">
 </div>
 
 
