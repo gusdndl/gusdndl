@@ -33,6 +33,11 @@ And now I'm a Metaverse developer!
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
 	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
+	<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=white" />
+	<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+	<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white" />
+	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /><br><br>
 	
 </div>
